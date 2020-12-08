@@ -1,3 +1,4 @@
 # GRIP 
 [Prediction using Supervised ML](https://github.com/lakshya9989/data-analysis/blob/main/task1.ipynb) 
-[Prediction using Supervised ML] (https://github.com/lakshya9989/data-analysis/blob/main/task2.ipynb)
+
+[Prediction using Unsupervised ML](https://github.com/lakshya9989/data-analysis/blob/main/task2.ipynb)
